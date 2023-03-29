@@ -1,5 +1,11 @@
 # npm-package
 
+## 0.1.1
+
+### Patch Changes
+
+- e90143f: Testing more changes
+
 ## 0.1.0
 
 ### Minor Changes
