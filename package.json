@@ -1,5 +1,6 @@
 {
   "name": "npm-package",
+  "private": "false",
   "version": "0.0.1",
   "licence": "MIT",
   "author": "Alexandre Dos Reis",
