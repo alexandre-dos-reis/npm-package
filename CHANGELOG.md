@@ -1,5 +1,11 @@
 # npm-package
 
+## 0.1.2
+
+### Patch Changes
+
+- 74131ca: testing
+
 ## 0.1.1
 
 ### Patch Changes
