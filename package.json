@@ -1,5 +1,6 @@
 {
   "name": "npm-package",
+  "version": "0.0.1",
   "licence": "MIT",
   "author": "Alexandre Dos Reis",
   "main": "dist/index.js",
@@ -7,7 +8,9 @@
   "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsup src/index.ts --format cjs,esm --dts",
-    "typechecker": "tsc"
+    "typecheck": "tsc",
+    "ci": "pnpm typecheck && pnpm build",
+    "release": "pnpm typecheck && pnpm build && pnpm exec changeset publish"
   },
   "devDependencies": {
     "@changesets/cli": "^2.26.1",
