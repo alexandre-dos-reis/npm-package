@@ -1,7 +1,7 @@
 {
   "name": "npm-package",
   "private": "false",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "licence": "MIT",
   "author": "Alexandre Dos Reis",
   "main": "dist/index.js",
