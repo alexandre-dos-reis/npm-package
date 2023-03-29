@@ -1,5 +1,0 @@
----
-"npm-package": patch
----
-
-testing
