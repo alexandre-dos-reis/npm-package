@@ -1,5 +1,11 @@
 # @reges/testing-changesets
 
+## 0.2.4
+
+### Patch Changes
+
+- 0d7bcc9: Added npmignore to slim down the package
+
 ## 0.2.3
 
 ### Patch Changes
