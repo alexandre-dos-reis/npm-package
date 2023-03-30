@@ -1,6 +1,6 @@
 {
   "name": "testing-publishing-pkg",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "licence": "MIT",
   "author": "Alexandre Dos Reis",
   "main": "dist/index.js",
