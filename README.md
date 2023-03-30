@@ -1,8 +1,8 @@
-# publish npm package with changesets
+# Publish npm package with changesets
 
 A test using changesets to publish npm package.
 
-## Setup with `pnpm`.
+## Setup with `pnpm`
 
 ### Create a git project
 
@@ -14,3 +14,9 @@ A test using changesets to publish npm package.
 - On the repository, go to `Settings` > `Actions` > `Generals` > `Workflow permissions`
   - Choose: `Read and write permission`
   - Enable: `Allow Github Actions to create and approve pull requests`
+
+## Resources
+
+- https://github.com/changesets/changesets
+- https://github.com/changesets/action
+- https://github.com/christian-hackyourshack/npm/tree/main/packages
