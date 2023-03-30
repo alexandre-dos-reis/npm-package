@@ -1,5 +1,5 @@
 {
-  "name": "npm-package",
+  "name": "@reges/npm-package",
   "private": "false",
   "version": "0.1.2",
   "licence": "MIT",
@@ -11,7 +11,7 @@
     "build": "tsup src/index.ts --format cjs,esm --dts",
     "typecheck": "tsc",
     "ci": "pnpm typecheck && pnpm build",
-    "release": "pnpm typecheck && pnpm build && changeset publish"
+    "release": "pnpm run build && changeset publish"
   },
   "devDependencies": {
     "@changesets/cli": "^2.26.1",
