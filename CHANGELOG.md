@@ -1,5 +1,11 @@
 # npm-package
 
+## 0.2.0
+
+### Minor Changes
+
+- 3d9b861: testing publishing
+
 ## 0.1.3
 
 ### Patch Changes
