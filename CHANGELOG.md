@@ -1,5 +1,11 @@
 # npm-package
 
+## 0.1.3
+
+### Patch Changes
+
+- 46ff97e: more testing
+
 ## 0.1.2
 
 ### Patch Changes
