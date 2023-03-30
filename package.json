@@ -1,6 +1,5 @@
 {
   "name": "@reges/testing-changesets",
-  "private": "false",
   "version": "0.2.2",
   "licence": "MIT",
   "author": "Alexandre Dos Reis",
