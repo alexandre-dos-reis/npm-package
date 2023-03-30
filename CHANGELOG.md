@@ -1,5 +1,11 @@
 # @reges/testing-changesets
 
+## 0.2.3
+
+### Patch Changes
+
+- f161610: testing
+
 ## 0.2.2
 
 ### Patch Changes
